@@ -1,0 +1,7 @@
+{
+ "url" : "https://rahulshettyacademy.com/client/#/auth/login",
+ "email" : "jegow99556@flosek.com",
+ "password" : "Test@123",
+ "errorMessage" :  "Incorrect email or password.",
+ "invalidPassword": "sdfsdfdsfdsf"
+}

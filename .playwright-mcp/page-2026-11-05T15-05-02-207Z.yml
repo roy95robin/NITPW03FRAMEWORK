@@ -1,0 +1,117 @@
+- generic [ref=e393]:
+  - navigation [ref=e395]:
+    - generic [ref=e397]:
+      - link "Automation Automation Practice":
+        - /url: ""
+        - generic [ref=e398] [cursor=pointer]:
+          - heading "Automation" [level=3] [ref=e399]
+          - paragraph [ref=e400]: Automation Practice
+    - text: 
+    - link "🎯 I'll help you prepare for your next QA job — Explore the QA Career Accelerator." [ref=e401] [cursor=pointer]:
+      - /url: https://rahulshettyacademy.com/qa-career-accelerator-job-ready
+    - list [ref=e402]:
+      - listitem [ref=e403] [cursor=pointer]:
+        - button " HOME" [ref=e404]:
+          - generic [ref=e405]: 
+          - text: HOME
+      - listitem
+      - listitem [ref=e406] [cursor=pointer]:
+        - button " ORDERS" [ref=e407]:
+          - generic [ref=e408]: 
+          - text: ORDERS
+      - listitem [ref=e409] [cursor=pointer]:
+        - button " Cart 1" [ref=e410]:
+          - generic [ref=e411]: 
+          - text: Cart
+          - generic [ref=e412]: "1"
+      - listitem [ref=e413] [cursor=pointer]:
+        - button "Sign Out" [ref=e414]:
+          - generic [aria-hidden] [ref=e415]: 
+          - text: Sign Out
+  - generic [ref=e418]:
+    - generic [ref=e422]:
+      - generic [ref=e423]: ADIDAS ORIGINAL
+      - generic [ref=e424]: $ 11500
+      - generic [ref=e425]: "Quantity: 1"
+      - list [ref=e427]:
+        - listitem [ref=e428]: Apple phone
+    - generic [ref=e431]:
+      - generic [ref=e432]: Payment Method
+      - generic [ref=e433]:
+        - generic [ref=e434] [cursor=pointer]: Credit Card
+        - generic [ref=e435] [cursor=pointer]: Paypal
+        - generic [ref=e436] [cursor=pointer]: SEPA
+        - generic [ref=e437] [cursor=pointer]: Invoice
+      - generic [ref=e438]:
+        - generic [ref=e439]:
+          - generic [ref=e440]: Personal Information
+          - generic [ref=e442]:
+            - generic [ref=e444]:
+              - generic [ref=e445]: Credit Card Number
+              - textbox [ref=e446]: 4542 9931 9292 2293
+            - generic [ref=e447]:
+              - generic [ref=e448]:
+                - generic [ref=e449]: Expiry Date
+                - combobox [ref=e450]:
+                  - option "01" [selected]
+                  - option "02"
+                  - option "03"
+                  - option "04"
+                  - option "05"
+                  - option "06"
+                  - option "07"
+                  - option "08"
+                  - option "09"
+                  - option "10"
+                  - option "11"
+                  - option "12"
+                - combobox [ref=e451]:
+                  - option "01"
+                  - option "02"
+                  - option "03"
+                  - option "04"
+                  - option "05"
+                  - option "06"
+                  - option "07"
+                  - option "08"
+                  - option "09"
+                  - option "10"
+                  - option "11"
+                  - option "12"
+                  - option "13"
+                  - option "14"
+                  - option "15"
+                  - option "16" [selected]
+                  - option "17"
+                  - option "18"
+                  - option "19"
+                  - option "20"
+                  - option "21"
+                  - option "22"
+                  - option "23"
+                  - option "24"
+                  - option "25"
+                  - option "26"
+                  - option "27"
+                  - option "28"
+                  - option "29"
+                  - option "30"
+                  - option "31"
+              - generic [ref=e452]:
+                - generic [ref=e453]: CVV Code ?
+                - textbox [ref=e454]
+            - generic [ref=e456]:
+              - generic [ref=e457]: Name on Card
+              - textbox [ref=e458]
+            - generic [ref=e459]:
+              - generic [ref=e460]:
+                - generic [ref=e461]: Apply Coupon
+                - textbox [ref=e462]
+              - button "Apply Coupon" [ref=e465] [cursor=pointer]
+        - generic [ref=e466]:
+          - generic [ref=e467]: Shipping Information
+          - generic [ref=e469]:
+            - generic [ref=e470]: jegow99556@flosek.com
+            - textbox [ref=e471]: jegow99556@flosek.com
+            - textbox "Select Country" [ref=e474]
+            - generic [ref=e475]: Place Order

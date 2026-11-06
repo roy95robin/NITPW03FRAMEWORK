@@ -1,0 +1,128 @@
+- generic [ref=e71]:
+  - navigation [ref=e73]:
+    - generic [ref=e75]:
+      - link "Automation Automation Practice":
+        - /url: ""
+        - generic [ref=e76] [cursor=pointer]:
+          - heading "Automation" [level=3] [ref=e77]
+          - paragraph [ref=e78]: Automation Practice
+    - text: 
+    - link "🎯 I'll help you prepare for your next QA job — Explore the QA Career Accelerator." [ref=e79] [cursor=pointer]:
+      - /url: https://rahulshettyacademy.com/qa-career-accelerator-job-ready
+    - list [ref=e80]:
+      - listitem [ref=e81] [cursor=pointer]:
+        - button " HOME" [ref=e82]:
+          - generic [ref=e83]: 
+          - text: HOME
+      - listitem
+      - listitem [ref=e84] [cursor=pointer]:
+        - button " ORDERS" [ref=e85]:
+          - generic [ref=e86]: 
+          - text: ORDERS
+      - listitem [ref=e87] [cursor=pointer]:
+        - button " Cart 1" [ref=e202]:
+          - generic [ref=e89]: 
+          - text: Cart
+          - generic [ref=e203]: "1"
+      - listitem [ref=e90] [cursor=pointer]:
+        - button "Sign Out" [ref=e91]:
+          - generic [aria-hidden] [ref=e92]: 
+          - text: Sign Out
+  - text:    
+  - generic [ref=e93]:
+    - paragraph [ref=e94]: Home | Search
+    - heading "Filters" [level=4] [ref=e96]
+    - generic [ref=e97]:
+      - textbox "search" [ref=e99]
+      - generic [ref=e100]:
+        - heading "Price Range" [level=6] [ref=e101]
+        - generic [ref=e102]:
+          - textbox "Min Price" [ref=e104]
+          - textbox "Max Price" [ref=e106]
+      - generic [ref=e107]:
+        - heading "Categories" [level=6] [ref=e108]
+        - generic [ref=e109]: 
+        - generic [ref=e111]:
+          - checkbox [ref=e112]
+          - generic [ref=e113]: fashion
+        - generic [ref=e114]:
+          - checkbox [ref=e115]
+          - generic [ref=e116]: electronics
+        - generic [ref=e117]:
+          - checkbox [ref=e118]
+          - generic [ref=e119]: household
+      - generic [ref=e120]:
+        - heading "Sub Categories" [level=6] [ref=e121]
+        - generic [ref=e122]: 
+        - generic [ref=e124]:
+          - checkbox [ref=e125]
+          - generic [ref=e126]: t-shirts
+        - generic [ref=e127]:
+          - checkbox [ref=e128]
+          - generic [ref=e129]: shirts
+        - generic [ref=e130]:
+          - checkbox [ref=e131]
+          - generic [ref=e132]: shoes
+        - generic [ref=e133]:
+          - checkbox [ref=e134]
+          - generic [ref=e135]: mobiles
+        - generic [ref=e136]:
+          - checkbox [ref=e137]
+          - generic [ref=e138]: laptops
+      - generic [ref=e139]:
+        - heading "Search For" [level=6] [ref=e140]
+        - generic [ref=e141]: 
+        - generic [ref=e143]:
+          - checkbox [ref=e144]
+          - generic [ref=e145]: men
+        - generic [ref=e146]:
+          - checkbox [ref=e147]
+          - generic [ref=e148]: women
+  - generic [ref=e149]:
+    - generic [ref=e150]:
+      - generic [ref=e151]:
+        - generic [ref=e152]: Showing 3 results |
+        - generic [ref=e153]: User can only see maximum 9 products on a page
+      - generic [ref=e154]:
+        - generic [ref=e158]:
+          - heading "ADIDAS ORIGINAL" [level=5] [ref=e159]
+          - generic [ref=e160]: $ 11500
+          - button "View" [ref=e162] [cursor=pointer]:
+            - generic [aria-hidden] [ref=e163]: 
+            - text: View
+          - button " Add To Cart" [active] [ref=e164] [cursor=pointer]:
+            - generic [ref=e165]: 
+            - text: Add To Cart
+        - generic [ref=e169]:
+          - heading "ZARA COAT 3" [level=5] [ref=e170]
+          - generic [ref=e171]: $ 11500
+          - button "View" [ref=e173] [cursor=pointer]:
+            - generic [aria-hidden] [ref=e174]: 
+            - text: View
+          - button " Add To Cart" [ref=e175] [cursor=pointer]:
+            - generic [ref=e176]: 
+            - text: Add To Cart
+        - generic [ref=e180]:
+          - heading "iphone 13 pro" [level=5] [ref=e181]
+          - generic [ref=e182]: $ 55000
+          - button "View" [ref=e184] [cursor=pointer]:
+            - generic [aria-hidden] [ref=e185]: 
+            - text: View
+          - button " Add To Cart" [ref=e186] [cursor=pointer]:
+            - generic [ref=e187]: 
+            - text: Add To Cart
+    - list "Pagination" [ref=e192]:
+      - listitem [ref=e193]:
+        - text: «
+        - generic [ref=e194]:
+          - text: Previous
+          - generic [ref=e195]: page
+      - listitem [ref=e196]:
+        - generic [ref=e197]: You're on page
+        - text: "1"
+      - listitem [ref=e198]:
+        - generic [ref=e199]:
+          - text: Next
+          - generic [ref=e200]: page
+        - text: »
+  - generic [ref=e201]: Design and Developed By - Kunal Sharma

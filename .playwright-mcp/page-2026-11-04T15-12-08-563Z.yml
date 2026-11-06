@@ -1,0 +1,263 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - generic [ref=e5]:
+      - link "QATools playground" [ref=e6] [cursor=pointer]:
+        - /url: /
+        - generic [aria-hidden] [ref=e7]: 🛒
+        - generic [ref=e8]:
+          - generic [ref=e9]: QATools
+          - generic [ref=e10]: playground
+      - navigation "Primary navigation" [ref=e11]:
+        - button "Practice apps" [ref=e13] [cursor=pointer]:
+          - generic [aria-hidden] [ref=e14]: 🧪
+          - generic [aria-hidden] [ref=e16]: ▾
+        - link "Widgets" [ref=e17] [cursor=pointer]:
+          - /url: /widgets
+        - link "API" [ref=e18] [cursor=pointer]:
+          - /url: /api-playground
+        - link "Locator Game" [ref=e19] [cursor=pointer]:
+          - /url: /game
+          - text: 🎮 Locator Game
+        - button "Learn" [ref=e21] [cursor=pointer]:
+          - generic [aria-hidden] [ref=e22]: 🎓
+          - generic [aria-hidden] [ref=e24]: ▾
+        - link "QA Tools" [ref=e25] [cursor=pointer]:
+          - /url: https://qatools.dev
+          - text: QA Tools ↗
+        - link "Subscribe to our YouTube channel" [ref=e27] [cursor=pointer]:
+          - /url: https://www.youtube.com/@qatools-dev?sub_confirmation=1
+        - link "Follow us on Instagram" [ref=e30] [cursor=pointer]:
+          - /url: https://www.instagram.com/qatools_dev/
+        - link "Wishlist with 0 items" [ref=e35] [cursor=pointer]:
+          - /url: /wishlist
+          - generic [aria-hidden] [ref=e36]: ♡
+        - link "Cart with 0 items" [ref=e37] [cursor=pointer]:
+          - /url: /cart
+          - generic [aria-hidden] [ref=e38]: 🛒
+        - link "Sign in" [ref=e39] [cursor=pointer]:
+          - /url: /login
+  - main [ref=e40]:
+    - generic [ref=e41]:
+      - heading "Products" [level=1] [ref=e42]
+      - generic [ref=e43]:
+        - generic [ref=e44]:
+          - generic [ref=e45]: Search
+          - searchbox "Search" [ref=e46]
+        - generic [ref=e47]:
+          - generic [ref=e48]: Category
+          - combobox "Category" [ref=e49]:
+            - option "All" [selected]
+            - option "Electronics"
+            - option "Clothing"
+            - option "Books"
+            - option "Home"
+            - option "Toys"
+            - option "Sports"
+        - generic [ref=e50]:
+          - generic [ref=e51]: "Max price: $200"
+          - 'slider "Max price: $200" [ref=e52]': "200"
+        - generic [ref=e53]:
+          - generic [ref=e54]: Sort by
+          - combobox "Sort by" [ref=e55]:
+            - option "Most popular" [selected]
+            - 'option "Price: low to high"'
+            - 'option "Price: high to low"'
+            - option "Highest rated"
+            - option "Name (A–Z)"
+        - generic [ref=e56]:
+          - checkbox "In stock only" [ref=e57]
+          - text: In stock only
+      - paragraph [ref=e58]: Showing 6 of 12 products
+      - generic [ref=e59]:
+        - article [ref=e240]:
+          - link "View Wooden Building Blocks" [ref=e241] [cursor=pointer]:
+            - /url: /products/7
+            - img "Wooden Building Blocks" [ref=e242]
+          - button "Add Wooden Building Blocks to wishlist" [ref=e243] [cursor=pointer]: ♡
+          - generic [ref=e244]:
+            - heading [level=3] [ref=e245]:
+              - link "Wooden Building Blocks" [ref=e246] [cursor=pointer]:
+                - /url: /products/7
+            - generic [ref=e247]: Toys
+            - 'img "Rating: 4.7 out of 5" [ref=e249]':
+              - text: ★★★★☆
+              - generic [ref=e250]: (4.7)
+            - generic [ref=e251]: $24.00
+            - generic [ref=e252]:
+              - button "Add Wooden Building Blocks to cart" [ref=e253] [cursor=pointer]: Add to cart
+              - link "View details for Wooden Building Blocks" [ref=e254] [cursor=pointer]:
+                - /url: /products/7
+                - text: Details
+        - article [ref=e255]:
+          - link "View Yoga Mat" [ref=e256] [cursor=pointer]:
+            - /url: /products/8
+            - img "Yoga Mat" [ref=e257]
+          - button "Add Yoga Mat to wishlist" [ref=e258] [cursor=pointer]: ♡
+          - generic [ref=e259]:
+            - heading [level=3] [ref=e260]:
+              - link "Yoga Mat" [ref=e261] [cursor=pointer]:
+                - /url: /products/8
+            - generic [ref=e262]: Sports
+            - 'img "Rating: 4.4 out of 5" [ref=e264]':
+              - text: ★★★★☆
+              - generic [ref=e265]: (4.4)
+            - generic [ref=e266]: $29.99
+            - generic [ref=e267]:
+              - button "Add Yoga Mat to cart" [ref=e268] [cursor=pointer]: Add to cart
+              - link "View details for Yoga Mat" [ref=e269] [cursor=pointer]:
+                - /url: /products/8
+                - text: Details
+        - article [ref=e270]:
+          - link "View Desk Lamp" [ref=e271] [cursor=pointer]:
+            - /url: /products/9
+            - img "Desk Lamp" [ref=e272]
+          - button "Add Desk Lamp to wishlist" [ref=e273] [cursor=pointer]: ♡
+          - generic [ref=e274]:
+            - heading [level=3] [ref=e275]:
+              - link "Desk Lamp" [ref=e276] [cursor=pointer]:
+                - /url: /products/9
+            - generic [ref=e277]: Home
+            - 'img "Rating: 4.1 out of 5" [ref=e279]':
+              - text: ★★★★☆
+              - generic [ref=e280]: (4.1)
+            - generic [ref=e281]: $34.50
+            - generic [ref=e282]:
+              - button "Add Desk Lamp to cart" [ref=e283] [cursor=pointer]: Add to cart
+              - link "View details for Desk Lamp" [ref=e284] [cursor=pointer]:
+                - /url: /products/9
+                - text: Details
+        - article [ref=e285]:
+          - link "View Bluetooth Speaker" [ref=e286] [cursor=pointer]:
+            - /url: /products/10
+            - img "Bluetooth Speaker" [ref=e287]
+          - button "Add Bluetooth Speaker to wishlist" [ref=e288] [cursor=pointer]: ♡
+          - generic [ref=e289]:
+            - heading [level=3] [ref=e290]:
+              - link "Bluetooth Speaker" [ref=e291] [cursor=pointer]:
+                - /url: /products/10
+            - generic [ref=e292]: Electronics
+            - 'img "Rating: 4 out of 5" [ref=e294]':
+              - text: ★★★★☆
+              - generic [ref=e295]: (4.0)
+            - generic [ref=e296]: $45.00
+            - generic [ref=e297]:
+              - button "Add Bluetooth Speaker to cart" [ref=e298] [cursor=pointer]: Add to cart
+              - link "View details for Bluetooth Speaker" [ref=e299] [cursor=pointer]:
+                - /url: /products/10
+                - text: Details
+        - article [ref=e300]:
+          - link "View Denim Jacket" [ref=e301] [cursor=pointer]:
+            - /url: /products/11
+            - img "Denim Jacket" [ref=e302]
+          - button "Add Denim Jacket to wishlist" [ref=e303] [cursor=pointer]: ♡
+          - generic [ref=e304]:
+            - heading [level=3] [ref=e305]:
+              - link "Denim Jacket" [ref=e306] [cursor=pointer]:
+                - /url: /products/11
+            - generic [ref=e307]:
+              - generic [ref=e308]: Clothing
+              - generic [ref=e309]: Out of stock
+            - 'img "Rating: 4.3 out of 5" [ref=e310]':
+              - text: ★★★★☆
+              - generic [ref=e311]: (4.3)
+            - generic [ref=e312]: $64.99
+            - generic [ref=e313]:
+              - button "Add Denim Jacket to cart" [disabled] [ref=e314]: Add to cart
+              - link "View details for Denim Jacket" [ref=e315] [cursor=pointer]:
+                - /url: /products/11
+                - text: Details
+        - article [ref=e316]:
+          - 'link "View Cookbook: Easy Meals" [ref=e317] [cursor=pointer]':
+            - /url: /products/12
+            - 'img "Cookbook: Easy Meals" [ref=e318]'
+          - 'button "Add Cookbook: Easy Meals to wishlist" [ref=e319] [cursor=pointer]': ♡
+          - generic [ref=e320]:
+            - heading [level=3] [ref=e321]:
+              - 'link "Cookbook: Easy Meals" [ref=e322] [cursor=pointer]':
+                - /url: /products/12
+            - generic [ref=e323]: Books
+            - 'img "Rating: 4.6 out of 5" [ref=e325]':
+              - text: ★★★★☆
+              - generic [ref=e326]: (4.6)
+            - generic [ref=e327]: $22.00
+            - generic [ref=e328]:
+              - 'button "Add Cookbook: Easy Meals to cart" [ref=e329] [cursor=pointer]': Add to cart
+              - 'link "View details for Cookbook: Easy Meals" [ref=e330] [cursor=pointer]':
+                - /url: /products/12
+                - text: Details
+      - navigation "Pagination" [ref=e151]:
+        - button "‹ Prev" [ref=e152] [cursor=pointer]
+        - button "1" [ref=e153] [cursor=pointer]
+        - button "2" [active] [ref=e154] [cursor=pointer]
+        - button "Next ›" [disabled] [ref=e155]
+  - region "Promoted QATools products" [ref=e156]:
+    - article [ref=e331]:
+      - generic [ref=e332]: Ad · by qatools.dev
+      - generic [ref=e334]: ⚡
+      - generic [ref=e335]:
+        - heading "Record a real Playwright test in 60 seconds" [level=3] [ref=e336]
+        - paragraph [ref=e337]: PromptQA Recorder for Chrome — click through your app, export Playwright / Cypress / Selenium.
+      - link "Install free" [ref=e338] [cursor=pointer]:
+        - /url: https://chromewebstore.google.com/detail/promptqa-recorder/beodomhmnoaclgdjdcphjhogcaojegij
+        - text: Install free ↗
+    - generic [ref=e165]:
+      - button "Previous promotion" [ref=e166] [cursor=pointer]: ‹
+      - tablist "Promotion slides" [ref=e167]:
+        - tab "Show Record a real Playwright test in 60 seconds" [selected] [ref=e168] [cursor=pointer]
+        - tab "Show Generate realistic test data on demand" [ref=e169] [cursor=pointer]
+        - tab "Show Migrate Selenium tests to Playwright — instantly" [ref=e170] [cursor=pointer]
+        - tab "Show Scaffold a Page Object Model framework in seconds" [ref=e171] [cursor=pointer]
+        - tab "Show Shrink your LLM token bill — without losing context" [ref=e172] [cursor=pointer]
+        - tab "Show Generate CI configs for any test framework" [ref=e173] [cursor=pointer]
+        - tab "Show Create realistic identity cards for test fixtures" [ref=e174] [cursor=pointer]
+      - button "Next promotion" [ref=e175] [cursor=pointer]: ›
+  - contentinfo [ref=e176]:
+    - generic [ref=e177]:
+      - generic [ref=e178]:
+        - strong [ref=e179]:
+          - generic [aria-hidden] [ref=e180]: 🛒
+          - generic [ref=e181]:
+            - generic [ref=e182]: QATools
+            - generic [ref=e183]: playground
+        - paragraph [ref=e184]: A demo storefront for test-automation practice. All data is dummy — no real transactions, no captured PII.
+        - generic "External links" [ref=e185]:
+          - link "QA Tools ↗" [ref=e186] [cursor=pointer]:
+            - /url: https://qatools.dev
+          - link "Playwright ↗" [ref=e187] [cursor=pointer]:
+            - /url: https://playwright.dev
+      - navigation "Footer navigation" [ref=e188]:
+        - generic [ref=e189]:
+          - heading "Practice" [level=4] [ref=e190]
+          - link "Widgets" [ref=e191] [cursor=pointer]:
+            - /url: /widgets
+          - link "API Playground" [ref=e192] [cursor=pointer]:
+            - /url: /api-playground
+          - link "Products" [ref=e193] [cursor=pointer]:
+            - /url: /products
+        - generic [ref=e194]:
+          - heading "Learn" [level=4] [ref=e195]
+          - link "Learn Playwright" [ref=e196] [cursor=pointer]:
+            - /url: /learn/playwright
+          - link "Patterns" [ref=e197] [cursor=pointer]:
+            - /url: /patterns
+          - link "Challenges" [ref=e198] [cursor=pointer]:
+            - /url: /challenges
+          - link "Test cases" [ref=e199] [cursor=pointer]:
+            - /url: /test-cases
+          - link "Quiz" [ref=e200] [cursor=pointer]:
+            - /url: /quiz
+        - generic [ref=e201]:
+          - heading "Site" [level=4] [ref=e202]
+          - link "About" [ref=e203] [cursor=pointer]:
+            - /url: /about
+          - link "What’s new" [ref=e204] [cursor=pointer]:
+            - /url: /whats-new
+          - link "Terms & Privacy" [ref=e205] [cursor=pointer]:
+            - /url: /terms
+    - generic [ref=e206]:
+      - generic [ref=e207]: © 2026 QATools Playground · No real data captured
+      - generic [ref=e208]:
+        - button "Restart tour" [ref=e209] [cursor=pointer]
+        - generic [aria-hidden] [ref=e210]: ·
+        - button "⟳ Reset demo data" [ref=e211] [cursor=pointer]
+  - button "Open feedback panel" [ref=e212] [cursor=pointer]
