@@ -29,11 +29,13 @@ version control is a system that records changes to a file or set of files over 
 3. Now make some changes to the existing code and commit the changes to the local repository using below commands
     first create the new branch 
     git checkout -b "PlaywrightCode"
-4. git brach (this will show the current branch name)
+4. git branch (this will show the current branch name)
 5. git add . 
 6. git commit -m "commit message" 
 7. git push // you might see some recommendations to set the upstream branch. If you see that, then use the below command
-8. 
+    git push --set-upstream origin "Branch Name"
+8. git push
+
 
 
 
